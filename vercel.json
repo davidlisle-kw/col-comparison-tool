@@ -1,8 +1,2 @@
 {
-  "version": 2,
-  "functions": {
-    "api/compare/index.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
 }
