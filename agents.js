@@ -7,7 +7,7 @@
 // ═══════════════════════════════════════════════════════════════════════════════
 
 const AGENTS = [
-  { name: "Sarah Mitchell",  title: "Senior Buyer's Agent",   email: "sarah@yourbrokerage.com",  phone: "(555) 201-1001" },
+  { name: "David Lisle",  title: "Real Estate Sales Agent",   email: "David.Lisle@kw.com",  phone: "(603) 803-3335" },
   { name: "James Okafor",    title: "Relocation Specialist",  email: "james@yourbrokerage.com",  phone: "(555) 201-1002" },
   { name: "Maria Delgado",   title: "Luxury & Move-Up Homes", email: "maria@yourbrokerage.com",  phone: "(555) 201-1003" },
 ];
