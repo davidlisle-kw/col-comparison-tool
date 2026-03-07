@@ -8,4 +8,5 @@
 
 const AGENTS = [
   { name: "David Lisle",  title: "Real Estate Sales Agent",   email: "David.Lisle@kw.com",  phone: "(603) 803-3335" },
+  { name: "Shalmai Hernandez",  title: "Real Estate Sales Agent",   email: "shalmaihernandez@kw.com",  phone: "(978) 399-4804" },
 ];
